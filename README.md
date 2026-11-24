@@ -170,7 +170,7 @@ Optimization
 | --------------------- | -----------------------------------------: |
 | 🟠 **LeetCode**       |              **1750 Peak Rating — Knight** |
 | 🟤 **CodeChef**       |                  **1616 Peak Rating — 3★** |
-| 🧠 **Total Problems** |                                 **1,080+** |
+| 🧠 **Total Problems** |                                 **1,620+** |
 | 📚 **Focus**          | Algorithms, Optimization & Problem Solving |
 
 My problem-solving practice spans:
