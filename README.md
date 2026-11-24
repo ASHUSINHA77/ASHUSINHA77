@@ -425,7 +425,7 @@ Auto Tagging    Flashcards
 
 ---
 
-# 👨‍💼 Employee Management System
+# 👨‍💼 StaffSphere Workforce Management — Python 
 
 ### `Python Application`
 
@@ -693,35 +693,35 @@ Full-Stack Development
 │  PROGRAMMING                                            │
 │  ├── C++                                                │
 │  ├── C                                                  │
-│  ├── Python                                              │
-│  └── JavaScript                                          │
+│  ├── Python                                             │
+│  └── JavaScript                                         │
 │                                                         │
 │  FRONTEND                                               │
-│  ├── HTML5                                               │
-│  ├── CSS                                                  │
-│  ├── JavaScript                                          │
-│  └── React.js                                            │
+│  ├── HTML5                                              │
+│  ├── CSS                                                │
+│  ├── JavaScript                                         │
+│  └── React.js                                           │
 │                                                         │
 │  BACKEND                                                │
-│  ├── Node.js                                             │
-│  ├── Express.js                                          │
-│  └── REST APIs                                           │
+│  ├── Node.js                                            │
+│  ├── Express.js                                         │
+│  └── REST APIs                                          │
 │                                                         │
 │  DATABASE                                               │
-│  └── PostgreSQL                                          │
+│  └── PostgreSQL                                         │
 │                                                         │
 │  TOOLS                                                  │
-│  ├── Git                                                  │
-│  ├── GitHub                                               │
-│  ├── Postman                                              │
-│  └── VS Code                                              │
+│  ├── Git                                                │
+│  ├── GitHub                                             │
+│  ├── Postman                                            │
+│  └── VS Code                                            │
 │                                                         │
 │  FUNDAMENTALS                                           │
-│  ├── Data Structures & Algorithms                         │
-│  ├── Object-Oriented Programming                           │
-│  ├── Operating Systems                                    │
-│  ├── DBMS                                                 │
-│  └── Computer Networks / TCP-IP                            │
+│  ├── Data Structures & Algorithms                       │
+│  ├── Object-Oriented Programming                        │
+│  ├── Operating Systems                                  │
+│  ├── DBMS                                               │
+│  └── Computer Networks / TCP-IP                         │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
